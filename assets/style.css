@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web:200,700");
+html {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+body {
+  background-color: #eeeeee;
+  font-family: 'Titillium Web', helvetica, arial, sans-serif;
+}
